@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
-*main - Prints a text
+*main - entry
 *
 *Return: Always 1 (Success)
 */
