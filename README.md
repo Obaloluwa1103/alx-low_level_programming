@@ -1,1 +1,1 @@
-0x02 nested loops
+0x03. C - Debugging
